@@ -1,0 +1,15 @@
+# Ignore compiled binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+matching-engine
+
+# Ignore local testing/performance dumps
+*.test
+*.out
+
+# Ignore hidden computer editor files
+.DS_Store
+.vscode/
